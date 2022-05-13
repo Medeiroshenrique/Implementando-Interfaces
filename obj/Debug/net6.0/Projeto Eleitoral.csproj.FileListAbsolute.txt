@@ -1,0 +1,15 @@
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.csproj.AssemblyReference.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.AssemblyInfoInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.AssemblyInfo.cs
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.csproj.CoreCompileInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\bin\Debug\net6.0\Projeto Eleitoral.exe
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\bin\Debug\net6.0\Projeto Eleitoral.deps.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\bin\Debug\net6.0\Projeto Eleitoral.runtimeconfig.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\bin\Debug\net6.0\Projeto Eleitoral.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\bin\Debug\net6.0\Projeto Eleitoral.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\refint\Projeto Eleitoral.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\Projeto Eleitoral.genruntimeconfig.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\Projeto Eleitoral\Projeto Eleitoral\obj\Debug\net6.0\ref\Projeto Eleitoral.dll
